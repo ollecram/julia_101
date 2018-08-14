@@ -1,0 +1,4 @@
+{
+    "julia.executablePath": "/usr/local/bin/julia",
+    "julia.enableTelemetry": true
+}
